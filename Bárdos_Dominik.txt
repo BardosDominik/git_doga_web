@@ -1,0 +1,10 @@
+c:
+cd Users
+cd tizedika
+cd Dokumentumok
+cd git_doga
+git init
+git config --local user.name"BardosDominik"
+git config --local user.email"bardos.dominik@szikszi-ozd.hu"
+git add .
+git commit -m"web,link és css"
